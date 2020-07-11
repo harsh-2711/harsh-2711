@@ -9,7 +9,7 @@ I’m Harsh, Class of 2021 Graduate from **DAIICT, Gujarat**. I am an Android / 
 - Personal Website: [https://harsh-2711.github.io/portfolio](https://harsh-2711.github.io/portfolio)
 
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harsh-2711&hide=["issues"]&show_icons=true)
+<!-- ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harsh-2711&hide=["issues"]&show_icons=true) -->
 
 <!--
 **harsh-2711/harsh-2711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
