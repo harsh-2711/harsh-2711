@@ -18,6 +18,7 @@ I’m Harsh, Class of 2021 Graduate from **DAIICT, Gujarat**. I am an Android / 
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-e4833e?style=flat-square&logo=amazon&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-4875a9?style=flat-square&logo=python&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-85d5e0?style=flat-square&logo=go&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-6eda8c?style=flat-square&logo=android&logoColor=white" />
