@@ -1,6 +1,6 @@
 ### Hi there, fellow < coders /> 👋
 
-I’m Harsh, Class of 2021 Graduate from **DAIICT, Gujarat**. I am an Android / Web Developer and an active Open Source contributor. I build things mostly with _Java_, _Python_ and _Go_.
+I’m Harsh, Class of 2021 Graduate from **DAIICT, Gujarat**. I am an Android / Web Developer and an active Open Source contributor. I build things mostly with _Kotlin_, _TypeScript_, _Python_ and _Go_.
 
 ### 📫 How to reach me
  <!--
