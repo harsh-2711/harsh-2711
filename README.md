@@ -15,7 +15,6 @@ I’m Harsh, Class of 2021 Graduate from **DAIICT, Gujarat**. I am an Android / 
 <p>
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-3f6cde?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Golang" src="https://img.shields.io/badge/-Golang-85d5e0?style=flat-square&logo=go&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-6eda8c?style=flat-square&logo=android&logoColor=white" />
   <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-df5b96?style=flat-square&logo=elasticsearch&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-13aa52?style=flat-square&logo=postgresql&logoColor=white" />
