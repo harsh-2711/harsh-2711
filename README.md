@@ -1,15 +1,24 @@
-### Hi there, fellow < coders /> 👋
+### Hi there, I'm Harsh 👋
+---
+[Portfolio](https://harsh-patel.in) • [Twitter](https://x.com/harsh_2711) • [Blog](https://medium.com/@harsh.2711.patel)
 
+- 🔭 I’m currently working at ***Stripe as a Software Engineer***
+- 🌱 I’m currently learning ***Rust and Ruby***
+- 👯‍♂️ I’m looking to collaborate on ***Health, Finance or Fashion***
+- 💬 Ask me about ***Distributed Systems and Databases***
+
+ <!--
 I’m Harsh, Class of 2021 Graduate from **DAIICT, Gujarat**. I am a Backend + Infrastructure Engineer and an active Open Source contributor. I build things mostly in _TypeScript_, _Go_, _Rust_, _Python_ and _Kotlin_.
 
 ### 📫 How to reach me
- <!--
+
 - Twitter: [harsh_2711](https://twitter.com/harsh_2711)
 - LinkedIn: [Harsh Patel](https://www.linkedin.com/in/jogendrasingh24/)
-- Personal Website: [https://harsh-2711.github.io/portfolio](https://harsh-2711.github.io/portfolio) -->
+- Personal Website: [https://harsh-2711.github.io/portfolio](https://harsh-2711.github.io/portfolio) 
 
 <p><a href="https://www.twitter.com/harsh_2711"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/harsh-patel-7472a8a1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://medium.com/@harsh.2711.patel"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://www.instagram.com/harsh.dmg/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> </p>
 <p><a href="https://harsh-2711.github.io/portfolio">🌐 Check out my website</a></p>
+
 
 ## 🔧 Tools & Technologies
 <p>
@@ -21,6 +30,7 @@ I’m Harsh, Class of 2021 Graduate from **DAIICT, Gujarat**. I am a Backend + I
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
+-->
 
 <!-- ## &#x1f4c8; GitHub Stats
 
